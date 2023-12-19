@@ -1,9 +1,19 @@
 ![HomePage](https://github.com/Samettkaya/RentA-Car-FrontEnd-Angular/blob/master/Readme-Images/HomePage.PNG)
 <br> 
 
-# Node Verison 
-  
-  v16.20.2
+# Node Verison v16.20.2
+  # install commands on ubuntu
+    sudo apt-get update
+    sudo apt install curl
+    sudo curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
+    source ~/.bashrc
+    nvm list-remote
+    nvm install v16.20.2
+    nvm use v16.20.2
+    npm install -g @angular/cli@11.2.4
+
+# PM2 install 
+  sudo npm install -g pm2
 
 # Npm Version 
   8.19.4
